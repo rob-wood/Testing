@@ -15,5 +15,6 @@ package DynamicProgramming.NoThree;
 public class NoThree {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Git");
     }
 }
